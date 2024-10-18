@@ -40,16 +40,16 @@
 }
 
 .au-list-ietem span i:hover {
-    border: 3px solid #5c6bc0;
+    border: 3px solid #05091a;
     color: #5c6bc0;;
 }
 
 .au-ads {
-    background: linear-gradient( rgba(92, 107, 192,0.9), rgba(92, 107, 192,0.9)), url(../images/ads-bg.png);
+    background: linear-gradient( rgba(14, 36, 165, 0.9), rgba(92, 107, 192,0.9)), url(../images/ads-bg.png);
 }
 
 .au-clients {
-    background: linear-gradient( rgba(92, 107, 192,0.9), rgba(92, 107, 192,0.9)), url(../images/client-bg.png);
+    background: linear-gradient( rgba(22, 32, 93, 0.9), rgba(22, 48, 192, 0.9)), url(../images/client-bg.png);
 }
 
 .btn:not([disabled]):not(.disabled).active, .btn:not([disabled]):not(.disabled):active {
@@ -283,7 +283,7 @@ a:hover {
 }
 
 a {
-    color: #5c6bc0;
+    color: #0f0f10;
 }
 
 .login-bttn:hover {

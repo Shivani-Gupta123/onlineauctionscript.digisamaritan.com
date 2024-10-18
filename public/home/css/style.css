@@ -289,7 +289,7 @@ ul {
 
 .navbar {
     padding: 0rem 1rem 0;
-    background-color: #f6f6f6;
+    background-color: #9cd578;
 }
 
 .btn-round {
@@ -444,7 +444,7 @@ ul {
 
 .sf-menu > li {
     float: left;
-    border-right: 1px solid #7397e6;
+    border-right: 1px solid #1f5cdf;
     padding: 0px 22px;
 }
 
@@ -454,7 +454,7 @@ ul {
 
 .sf-menu .single-dropdown {
     float: left;
-    border-right: 1px solid #7397e6;
+    border-right: 1px solid #133174;
     /*width: 20%;*/
     position: relative;
 }
@@ -763,7 +763,7 @@ ul.sf-menu li li li.sfHover ul {
         color: #ffffff;
         display: block;
         padding: 17px 20px;
-        background: #668ee6;
+        background: #0e2c6b;
         position: relative;
     }
     .cat-title:hover {
@@ -824,8 +824,8 @@ ul.sf-menu li li li.sfHover ul {
 }
 
 .hero-header .slider {
-    background: -webkit-gradient( linear, left top, left bottom, from(rgba(105, 105, 105, 0.5)), to(rgba(105, 105, 105, 0.5))), url(../images/slider-one.png);
-    background: linear-gradient( rgba(105, 105, 105, 0.5), rgba(105, 105, 105, 0.5)), url(../images/slider-one.png);
+    background: -webkit-gradient( linear, left top, left bottom, from(rgba(238, 235, 235, 0.5)), to(rgba(208, 205, 205, 0.5))), url(../images/sampatti.jpg);
+    background: linear-gradient( rgba(216, 214, 214, 0.5), rgba(196, 194, 194, 0.5)), url(../images/sampatti.jpg);
     position: relative;
     background-position: center;
     background-size: cover;
@@ -3724,7 +3724,7 @@ input[type="checkbox"] + label span.fa-stack {
 .au-terms p {
     margin-bottom: 0;
     padding: 10px 0;
-    G34232
+    /* G34232 */
 }
 
 .au-premium .au-tab-content .au-terms p {
